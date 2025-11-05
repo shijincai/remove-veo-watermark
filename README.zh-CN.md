@@ -35,7 +35,7 @@
 ![去除Veo水印演示](demo.gif)
 -->
 
-![去除Veo水印演示](https://sora2watermarkremover.net/og-image-logo.jpg)
+![去除Veo水印演示](https://sora2watermarkremover.net/og-image-veo3.jpg)
 
 ## 🚀 快速开始
 
