@@ -35,7 +35,7 @@ Our advanced AI technology intelligently identifies and removes Veo watermarks, 
 ![Remove Veo Watermark Demo](demo.gif)
 -->
 
-![Remove Veo Watermark Demo](https://sora2watermarkremover.net/og-image-logo.jpg)
+![Remove Veo Watermark Demo](https://sora2watermarkremover.net/og-image-veo3.jpg)
 
 ## 🚀 Quick Start
 
